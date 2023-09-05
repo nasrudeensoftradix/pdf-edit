@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pdf-edit/static/css/main.306fd999.css",
+    "main.js": "/pdf-edit/static/js/main.03468637.js",
+    "static/js/703.8226a2e7.chunk.js": "/pdf-edit/static/js/703.8226a2e7.chunk.js",
+    "static/js/513.0bad305f.chunk.js": "/pdf-edit/static/js/513.0bad305f.chunk.js",
+    "static/js/787.f2f911ad.chunk.js": "/pdf-edit/static/js/787.f2f911ad.chunk.js",
+    "static/media/hero.png": "/pdf-edit/static/media/hero.ed19f55a7392305fdb87.png",
+    "static/media/cotten.png": "/pdf-edit/static/media/cotten.ee4ed9414f2d9e2f581f.png",
+    "static/media/nike.png": "/pdf-edit/static/media/nike.c95193ebf12c2e88511d.png",
+    "static/media/gc.png": "/pdf-edit/static/media/gc.2d55958f5b8591bac922.png",
+    "static/media/cc.png": "/pdf-edit/static/media/cc.b6211b379af9ae291f77.png",
+    "index.html": "/pdf-edit/index.html",
+    "main.306fd999.css.map": "/pdf-edit/static/css/main.306fd999.css.map",
+    "main.03468637.js.map": "/pdf-edit/static/js/main.03468637.js.map",
+    "703.8226a2e7.chunk.js.map": "/pdf-edit/static/js/703.8226a2e7.chunk.js.map",
+    "513.0bad305f.chunk.js.map": "/pdf-edit/static/js/513.0bad305f.chunk.js.map",
+    "787.f2f911ad.chunk.js.map": "/pdf-edit/static/js/787.f2f911ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306fd999.css",
+    "static/js/main.03468637.js"
+  ]
+}
